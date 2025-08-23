@@ -8,17 +8,19 @@
 
 
 <h1 align="center">🌐 You can reach me</h1><br>
-<div align="center">
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=habte812&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" 
-       height="150" 
-       alt="stats graph" 
-  />
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=habte812&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" 
-       height="150" 
-       alt="languages graph" 
-  />
+<div align="left">
+  <a href="https://www.instagram.com/h21_me?igsh=MW5odWppdG0yeWpydw==" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61577877900088" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="@H21_5" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+  <a href="habtemariammelsie@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
 
