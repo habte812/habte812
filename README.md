@@ -8,7 +8,7 @@
 
 
 <h1 align="center">🌐 You can reach me</h1><br>
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/h21_me?igsh=MW5odWppdG0yeWpydw==" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
@@ -56,7 +56,7 @@
 </div>
 
 
-  <h1 align="center">💰 You can help me by Donating</h1><br>
+ ## <h1 align="center">💰 You can help me by Donating</h1><br>
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/habtemariamm) 
 
   
