@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="500" width ="1000"src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"  />
+  <img height="400" width ="1020"src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"  />
 </div>
 
 <h1 align="center">👋 Hey there, I’m Habtemariam Melsie</h1>
