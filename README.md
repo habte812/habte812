@@ -22,11 +22,11 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   
-<p align="center">
+
   <a href="https://habtemariammelsie.vercel.app" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/8743/8743996.png" width="52" height="40" alt="website logo" />
   </a>
-</p>
+
 
 
 </div>
