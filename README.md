@@ -8,7 +8,19 @@
 
 
 <h1 align="center">🌐 You can reach me</h1><br>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/h21_me) &nbsp;   &nbsp;  &nbsp; [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:habtemariammelsie@gmail.com) 
+<div align="center">
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=habte812&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" 
+       height="150" 
+       alt="stats graph" 
+  />
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=habte812&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" 
+       height="150" 
+       alt="languages graph" 
+  />
+</div>
+
 
 <h1 align="center">💻 Tech Stack</h1>
 <br>
