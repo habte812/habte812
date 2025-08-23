@@ -25,7 +25,7 @@
 
 
 
-<h1 align="center">💻 Tech Stack</h1>
+<h1 align="center">💻 language and Tools</h1>
 <br>
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
@@ -57,7 +57,7 @@
 </div>
 
 
- ## <h1 align="center">💰 You can buy me a Coffee😉</h1><br>
+ ## <h1 align="center">You can buy me a Coffee😉</h1><br>
 <div align="center">
   
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/habtemariamm)
