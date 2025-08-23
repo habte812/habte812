@@ -57,7 +57,7 @@
 
 
  ## <h1 align="center">💰 You can help me by Donating</h1><br>
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/habtemariamm) 
+ <div align="center> [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/habtemariamm) </div>
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
