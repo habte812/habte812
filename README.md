@@ -2,9 +2,9 @@
   <img height="400" width ="1020"src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"  />
 </div>
 
-<h1 align="center">👋 Hey there, I’m Habtemariam Melsie</h1>
+<h1 align="center">👋 Hey there, I’m Habtemariam Melsie</h1> 
 
-<h2 align="center"> 💻 Application Developer | Electrical & Computer Engineer | AI Enthusiast</h2><br>Passionate about building intelligent, efficient, and scalable software solutions. I love combining AI, Flutter, and cloud technologies to create seamless apps and tools that make a difference.<br><br>🚀 What I Work On<br>          &nbsp;   &nbsp;  &nbsp;     📱 Cross-platform apps using Flutter, Firebase and Django<br>    &nbsp;   &nbsp;  &nbsp;               ☁️ Cloud-powered solutions with REST APIs<br>           &nbsp;   &nbsp;  &nbsp;        🧩 Integrating hardware systems with mobile apps<br>            &nbsp;   &nbsp;  &nbsp;       ⚡ Projects that combine software, automation, and IoT<br><br>💡 Best Projects<br>         &nbsp;   &nbsp;  &nbsp;         🏠 Home Security System – IoT + Mobile App integration<br>        &nbsp;   &nbsp;  &nbsp;          📅 Scheduling System – Web + Mobile apps for user management<br>        &nbsp;   &nbsp;  &nbsp;          🔧 Personal Projects –simple English Dictionary app using flutter and python<br><br>🌱 Currently Learning<br>        &nbsp;   &nbsp;  &nbsp;           -Advanced Flutter web & Mobile architectures, plus Kotlin(Native Android) <br>     &nbsp;   &nbsp;  &nbsp;              -AI & ML for smarter applications<br>        &nbsp;   &nbsp;  &nbsp;           -Cloud integrations for IoT & automation <br>                &nbsp;   &nbsp;  &nbsp;   -CISCO<br>
+<h2 align="center"> 💻 Application Developer | Electrical & Computer Engineer | AI Enthusiast</h2><br>Passionate about building intelligent, efficient, and scalable software solutions. I love combining AI, Flutter, and cloud technologies to create seamless apps and tools that make a difference.<br><br>🚀 What I Work On<br>          &nbsp;   &nbsp;  &nbsp;     📱 Cross-platform apps using Flutter, Firebase and Django<br>    &nbsp;   &nbsp;  &nbsp;               ☁️ Cloud-powered solutions with REST APIs<br>           &nbsp;   &nbsp;  &nbsp;        🧩 Integrating hardware systems with mobile apps<br>            &nbsp;   &nbsp;  &nbsp;       ⚡ Projects that combine software, automation, and IoT<br><br>💡 Best Projects<br>         &nbsp;   &nbsp;  &nbsp;         🏠 Home Security System – IoT + Mobile App integration<br>        &nbsp;   &nbsp;  &nbsp;          📅 Scheduling System – Web + Mobile apps for user management<br>        &nbsp;   &nbsp;  &nbsp;          🔧 Personal Projects –simple English Dictionary app using flutter and python<br><br>🌱 Currently Learning<br>        &nbsp;   &nbsp;  &nbsp;           -Advanced Flutter web & Mobile architectures, plus Kotlin(Native Android) <br>     &nbsp;   &nbsp;  &nbsp;              -AI & ML for smarter applications<br>        &nbsp;   &nbsp;  &nbsp;           -Cloud integrations for IoT & automation <br>                &nbsp;   &nbsp;  &nbsp;   -CISCO<br> 
 
 
 <h1 align="center">🌐 You can reach me</h1><br>
@@ -21,9 +21,10 @@
   <a href="mailto:habtemariammelsie@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://habtemariammelsie.vercel.app" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/website/default.svg" width="52" height="40" alt="website logo" />
+  <a href="https://habtemariammelsie.vercel.app" target="_blank" rel="noopener noreferrer">
+  <img src="https://unpkg.com/@tabler/icons/icons/outline/world.svg" width="52" height="40" alt="website" />
 </a>
+
 
 </div>
 
