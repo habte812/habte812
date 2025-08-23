@@ -26,7 +26,7 @@
 </a>
 <p align="center">
   <a href="https://habtemariammelsie.vercel.app" target="_blank" rel="noopener noreferrer">
-    <img src="[https://your-domain.com/path/to/website-colored.svg](https://www.iconpacks.net/icons/2/free-website-icon-4946-thumb.png)" width="52" height="40" alt="website logo" />
+    <img src="https://www.iconpacks.net/icons/2/free-website-icon-4946-thumb.png" width="52" height="40" alt="website logo" />
   </a>
 </p>
 
